@@ -2,7 +2,7 @@
 
 ## 시작하는 방법
 
-### 프론트 : <https://github.com/YU-SWE/FE>
+### 프론트엔드 : <https://github.com/YU-SWE/FE>
 1.  master 브랜치에서 프로젝트를 받아옵니다.
 ```angular2html
 git clone https://github.com/YU-SWE/FE.git
@@ -28,7 +28,7 @@ npm start
 http://<a href="http://localhost:3000" target="_blank">localhost:3000</a>
 </pre>
 
-### 프론트 : <https://github.com/YU-SWE/BE>
+### 백엔드 : <https://github.com/YU-SWE/BE>
 
 1. master 브랜치에서 프로젝트를 받아옵니다.
 ```angular2html
@@ -42,3 +42,24 @@ git clone https://github.com/YU-SWE/BE.git
 ```angular2html
 JDK 17, MySQL 8.0.33 이상, Node 20.17.0 이상, Spring Boot 3.3.4 이상
 ```
+
+***
+
+### 프론트 기술
+* NodeJS axios 통신
+* React
+<p align="left">
+    <img src="./image/axios.png" align="center" width="32%">
+    <img src="./image/react.png" align="center" width="32%">
+</p>
+
+
+***
+
+### 백엔드 기술
+* Spring Boot
+* JWT
+<p align="left">
+    <img src="./image/spring_boot.png" align="center" width="32%">
+    <img src="./image/jwt.png" align="center" width="32%">
+</p>
