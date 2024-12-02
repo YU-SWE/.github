@@ -1,12 +1,11 @@
 # YUFOOD
-***
+
 ## 시작하는 방법
-***
+
 ### 프론트 : <https://github.com/YU-SWE/FE>
 1.  master branch에서 프로젝트를 받아주세요
 ```angular2html
 git clone https://github.com/YU-SWE/FE.git
-
 ```
 
 2.  코드가 있는 폴더로 이동을 합니다.
@@ -25,6 +24,12 @@ npm start
 ```
 
 5.웹 프론트 서버가 시작되면 웹 브라우저에서 아래의 주수를 들어갑니다
-```angular2html
-http://localhost:3000
-```
+
+[//]: # (```angular2html)
+
+[//]: # (http://localhost:3000)
+
+[//]: # (```)
+<pre>
+http://<a href="http://localhost:3000" target="_blank">localhost:3000</a>
+</pre>
