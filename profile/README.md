@@ -42,16 +42,17 @@ git clone https://github.com/YU-SWE/BE.git
      + 터미널에서
        ```angular2html
        brew install redis
-       ``` 
-
-3. 받아온 프로젝트에서 DemoApplication을 실행합니다.
+       ```
+3. build을 정리합니다
 ```angular2html
-cd BE
+./gradlew clean build
 ```
+
+4. 받아온 프로젝트의 루트 폴더에서 실행합니다.
 ```angular2html
 ./gradlew.bat bootRun
 ```
-4.  웹 백엔드 서버가 구동되고 프론트엔드에서 접속한 사이트를 이용하면 됩니다.
+5.  웹 백엔드 서버가 구동되고 프론트엔드에서 접속한 사이트를 이용하면 됩니다.
 
 ### 선행 조건
 ```angular2html
