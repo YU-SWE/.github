@@ -53,7 +53,7 @@ git clone https://github.com/YU-SWE/BE.git
 cd ./BE
 ```
 
-4build을 정리합니다
+4. build을 정리합니다
 ```angular2html
 ./gradlew clean build
 ```
