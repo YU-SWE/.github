@@ -34,7 +34,7 @@ git clone https://github.com/YU-SWE/BE.git
 ```
 2. Redis 다운로드 
    *  Window 다운로드 방법
-       + https://github.com/microsoftarchive/redis/releases 에서 .msi 파일 다운로드
+       + https://github.com/microsoftarchive/redis/releases 에서 Redix-x64-3.0.504.msi 파일 다운로드
        + Next를 계속 누르며 다운로드
        + C:\Program Files\Redis\redis-server.exe 를 실행해 레디스 서버 실행
        + C:\Program Files\Redis\redis-cli.exe 실행
