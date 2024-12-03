@@ -10,7 +10,7 @@ git clone https://github.com/YU-SWE/FE.git
 
 2.  코드가 있는 폴더로 이동을 합니다.
 ```angular2html
-cd ./fd
+cd ./fe
 ```
 
 3. node_modules를 다운 받습니다.
@@ -45,7 +45,13 @@ git clone https://github.com/YU-SWE/BE.git
        ``` 
 
 3. 받아온 프로젝트에서 DemoApplication을 실행합니다.
-4. 웹 백엔드 서버가 구동되고 프론트엔드에서 접속한 사이트를 이용하면 됩니다.
+```angular2html
+cd BE
+```
+```angular2html
+./gradlew.bat bootRun
+```
+4.  웹 백엔드 서버가 구동되고 프론트엔드에서 접속한 사이트를 이용하면 됩니다.
 
 ### 선행 조건
 ```angular2html
